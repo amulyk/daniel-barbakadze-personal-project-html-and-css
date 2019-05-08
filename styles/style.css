@@ -1268,3 +1268,13 @@ body{
 .section11 a:hover{
     color: #1ABC9C;
 }
+
+.fa-square-full:before {
+    height: 7px;
+    width: 5px;
+    content: "\f45c";
+    float: left;
+}
+.extra {
+    word-spacing: 5px;
+}
